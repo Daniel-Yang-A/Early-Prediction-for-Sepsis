@@ -53,7 +53,7 @@ Each patient's record is stored as a comma-separated value (CSV) text file, and 
 - Gender: Female (0) or Male (1)
 - Unit1: Administrative identifier for ICU unit (MICU)
 - Unit2: Administrative identifier for ICU unit (SICU)
-- 
+
 ### Evaluation Metrics
 
 The prediction results will be rated with the balanced error rate (BER = the average of the error rate on positive class examples and the error rate on negative class examples) and the area under the receiver operating characteristic curve (AUC).
